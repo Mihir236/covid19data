@@ -4,26 +4,14 @@
 
 ---
 
-## 📖 Overview
-Performs data analysis on COVID-19 transmission, recovery, and mortality rates globally to assess containment efficacy.
+## 📋 Project Specifications
 
----
-
-## 📊 Project Specifications
-
-### 1. Dataset Details
-* **Source**: Johns Hopkins University COVID-19 dataset
-* **Size**: 50,000+ daily regional infection logs
-
-### 2. Method & Approach
-* **Approach**: Time-series regression, rolling averages, and statistical modeling of daily growth curves
-* **Metric/Result**: Calculated post-lockdown transmission rate changes, indicating a 30% reduction in average growth velocity
-
-### 3. Tech Stack & Tools
-* **Technologies**: Python, pandas, matplotlib, Jupyter Notebook
-
-### ✨ Differentiating Features
-- **Compares national containment timelines against daily active curves on a synchronized time axis**
+* **Overview**: "Performs data analysis on COVID-19 transmission, recovery, and mortality rates globally to assess containment efficacy."
+* **Dataset**: "Johns Hopkins University COVID-19 dataset, 50,000+ daily regional infection logs"
+* **Method**: "Time-series regression, rolling averages, and statistical modeling of daily growth curves"
+* **Results**: "Calculated post-lockdown transmission rate changes, indicating a 30% reduction in average growth velocity"
+* **Tech stack**: "Python, pandas, matplotlib, Jupyter Notebook"
+* **Unique feature**: "Compares national containment timelines against daily active curves on a synchronized time axis"
 
 ---
 
